@@ -6,7 +6,8 @@ numpy
 scikit-learn
 tensorboard
 matplotlib
-setuptools
+setuptools==65.0.0
+wheel
 streamlit
 scikeras
-mlflow
+mlflow==65.0.0
