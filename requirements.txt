@@ -6,6 +6,7 @@ numpy
 scikit-learn
 tensorboard
 matplotlib
+setuptools
 streamlit
 scikeras
 mlflow
